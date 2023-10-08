@@ -662,7 +662,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: #98c593;
+		background-color: #c2ba23;
 		border: 0;
 		border-radius: 3.5em;
 		color: #ffffff;
@@ -2176,7 +2176,7 @@ input, select, textarea {
 		margin: 0;
 		line-height: 1em;
 		padding: 1.5em;
-		background: #39454b;
+		background: #212529;
 		color: rgba(185, 186, 187, 0.5);
 		overflow: hidden;
 	}
@@ -2190,7 +2190,7 @@ input, select, textarea {
 		}
 
 			#footer a:hover {
-				color: #b9babb;
+				color: #c2ba23;
 			}
 
 		#footer ul.menu {
